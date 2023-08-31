@@ -1,0 +1,26 @@
+POST   To create a room:
+
+    https://hall-booking-ye9o.onrender.com/create-room
+
+POST   To book a room:
+
+   https://hall-booking-ye9o.onrender.com/book-room
+
+GET To see the list of rooms:
+
+   https://hall-booking-ye9o.onrender.com/rooms-with-bookings
+
+GET  To see the list of customers:
+
+https://hall-booking-ye9o.onrender.com/customers-with-bookings
+
+Get To see the booking history of the customer:
+
+https://hall-booking-ye9o.onrender.com/booking-history/:customerName
+
+Example:
+
+https://hall-booking-ye9o.onrender.com/booking-history/subaash
+ 
+
+
