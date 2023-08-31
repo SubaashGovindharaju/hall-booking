@@ -14,7 +14,7 @@ Follow these steps to set up and run the API on your local machine:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/hall-booking-app.git
+   git clone https://github.com/SubaashGovindharaju/hall-booking
    cd hall-booking-app
 
 2. Install Dependencies:
