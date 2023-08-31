@@ -45,7 +45,7 @@ Book a Room
 - Request Body:
 
   {
-    "customerName": "John Doe",
+    "customerName": "subaash",
     "date": "2023-09-01",
     "startTime": "09:00 AM",
     "endTime": "11:00 AM",
@@ -70,8 +70,3 @@ Example Requests
 
 You can use tools like curl, Postman, or Insomnia to make requests to the API. See the provided examples in the above sections.
 
-Notes
-
-- This is a simplified example and does not include database integration.
-- Add error handling, validation, and security measures for a production-ready app.
-- Feel free to customize and extend the API based on your requirements.
