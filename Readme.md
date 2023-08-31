@@ -1,3 +1,8 @@
+Render link: https://hall-booking-ye9o.onrender.com
+
+Postman doc url:https://documenter.getpostman.com/view/28692055/2s9Y5bR29Y
+
+
 # Hall Booking App API
 
 This repository contains a simple Express.js API for a hall booking app. The API allows you to create rooms, book rooms, and retrieve booking-related information.
@@ -9,7 +14,7 @@ Follow these steps to set up and run the API on your local machine:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/hall-booking-app.git
+   git clone https://github.com/SubaashGovindharaju/hall-booking
    cd hall-booking-app
 
 2. Install Dependencies:
